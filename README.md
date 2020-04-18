@@ -1,6 +1,6 @@
 # qdp-ark-webui
 # 访问路径：http://localhost:8081/#/manage/list
-# 配置了axios eslint vue-router
+# 配置了axios eslint vue-router less
 
 ## Project setup
 ```
