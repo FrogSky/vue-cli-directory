@@ -1,18 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
     <router-view/>
   </div>
 </template>
 
 <script>
-
 export default {
   name: 'App',
 }
 </script>
 
 <style>
+@import "./assets/less/base.less";
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
